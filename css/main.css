@@ -21,6 +21,10 @@ html {
   color: #222;
 }
 
+.section-light a:focus {
+  outline: 2px solid red;
+}
+
 .section-bg {
   background-size: cover;
 }
